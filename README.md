@@ -1,4 +1,4 @@
-# MERN Boilerplate (LITE)
+# EPIIC VIDEO
 A simple boilerplate for creating Web Applications involving React, Express, Node, and MongoDB
 
 ## Getting Started
@@ -59,5 +59,4 @@ A simple boilerplate for creating Web Applications involving React, Express, Nod
 * [Mongoose Documentation](http://mongoosejs.com/docs/api.html)
 * [Mongo & Mongoose Cheatsheet](https://github.com/azat-co/cheatsheets/blob/master/mongodb-mongoose/readme.md)
 * [Express Cheatsheet](https://github.com/azat-co/cheatsheets/tree/master/express4)
-
 
